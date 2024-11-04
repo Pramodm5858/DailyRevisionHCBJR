@@ -1,0 +1,29 @@
+import React from 'react';
+import './App.css';
+
+
+function App() {
+  return (
+
+    <>
+      <div className="App">
+        <h1>HTML,CSS,Bootstrap,React</h1>
+        <h2> Position</h2>
+        <h3>Flex,justify,align-itm</h3>
+        <h4>margin,border,padding,contect,box-myworld,opacity</h4>
+        <h5>How to search-in-input,match</h5>
+        <h6>how to fit img into circle and add text,note</h6>
+
+        <h1>JavaScript,React-Hooks,Context-API,Props,state</h1>
+        <h2>promise,async-await,axios-get,post,put,delete</h2>
+        <h3>Button make 1line or 1page using function responsive</h3>
+        <h4>How it works as array,object,function </h4>
+        <h5>context-API</h5>
+        <h6>React-Hooks,props,state,class-lifecycle</h6>
+      </div>
+    </>
+
+  );
+}
+
+export default App;
